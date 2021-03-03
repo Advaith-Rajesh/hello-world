@@ -1,0 +1,17 @@
+p{
+    color:rgb(84, 56, 209);
+    font-family:'Times New Roman';
+    text-align:center;
+
+}
+h1{
+   color:navy;
+   font-family: Cursive; 
+   text-align:center;
+}
+article{
+    font-family: Times New Roman;
+    border:blue dotted 3px;
+    border-style:solid;
+    border-radius:200px;
+}
